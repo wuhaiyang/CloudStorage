@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CloudStorage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="common_loading_message">Loading...</string>
+    <string name="common_empty_msg">Oops, failed to resolve data\nPlease hit the screen and try again~</string>
+    <string name="common_error_msg">Oops, something wrong!\nPlease hit the screen and try again~</string>
+    <string name="common_no_network_msg">No network connected!\nPlease hit the screen and try again after connecting~</string>
+    <string name="common_load_more_end">No more content</string>
+
+</resources>
